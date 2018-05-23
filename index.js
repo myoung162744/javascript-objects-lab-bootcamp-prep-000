@@ -1,4 +1,4 @@
 var recipes = {
-  chickenParm = 'chicken cheese'
+  chickenParm = 'chicken cheese',
   oatmeal = 'oats milk'
-}
+};
